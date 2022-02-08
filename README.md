@@ -21,7 +21,7 @@
 
 🔥 Streak Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KseniyaMelnik&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KseniyaMelnik&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)
 
 🔝 Top Languages
 
