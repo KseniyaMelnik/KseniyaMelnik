@@ -20,15 +20,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KseniyaMelnik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔥 Streak Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KseniyaMelnik&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)
 
 🔝 Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniyaMelnik&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Codewars
+
 [![codewars](https://www.codewars.com/users/KseniyaMelnik/badges/large)](https://www.codewars.com/users/KseniyaMelnik)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![](https://komarev.com/ghpvc/?username=KseniyaMelnik&color=grey)
