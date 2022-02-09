@@ -19,10 +19,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KseniyaMelnik&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-🔥 Streak Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KseniyaMelnik&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&currStreakNum=DD2727)](https://git.io/streak-stats)
-
 🔝 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniyaMelnik&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
