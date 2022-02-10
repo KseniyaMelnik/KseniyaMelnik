@@ -15,6 +15,11 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d756e69745f74657374732d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f](https://user-images.githubusercontent.com/70837696/153024669-77c254ad-71a2-43d4-a30f-4940c31b5268.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d6174657269616c5f75692d3238324333343f7374796c653d666f722d7468652d6261646765266c6f676f](https://user-images.githubusercontent.com/70837696/153024682-06572f8e-b382-4b90-b53c-e78216f37648.svg)
 
+
+🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KseniyaMelnik&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 🔝 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniyaMelnik&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
